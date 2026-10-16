@@ -25,7 +25,6 @@ shows NVIDIA's licence first.
 | File | Bytes | SHA-256 |
 |---|---|---|
 | `libonnxruntime_providers_cuda.so.gz` | 436,613,559 | `c5186adc58eeab7af7b468504f6eac37c01a596c01ca500e4851b0bd31a02c6c` |
-| `libonnxruntime_providers_shared.so.gz` | 1,717 | `ec7c2d8057213f61e146b198fad1bacbb2a3f27cbd3c885cb1530290e4d8e59d` |
 
 Unmodified (gzip only) from the official `onnxruntime-linux-x64-gpu_cuda12-1.31.0.tgz`
 (https://github.com/microsoft/onnxruntime/releases/tag/v1.31.0). ONNX Runtime © Microsoft Corporation, MIT licence
